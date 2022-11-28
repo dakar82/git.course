@@ -1,0 +1,6 @@
+/.gitignore.txt
+/Error.py
+/console.txt
+logs/*
+/desktop.ini
+logs
